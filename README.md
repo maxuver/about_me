@@ -1,5 +1,5 @@
 👋 Hi, i'm DevOps Engineer at Sardina Systems.
-✨ I work with Linux, Ansiblr and ;earn to code on Python.
+✨ I work with Linux, Ansible and learn to code on Python.
 📫 You can write me on Telegram: @uverpool 
 and subscribe for my channel about DevOps: https://t.me/devopswithmax
    
