@@ -1,5 +1,5 @@
-👋 Hi, i'm DevOps Engineer at Sardina Systems.
-✨ I work with Linux, Ansible and learn to code on Python.
+👋 Hi, at September 2022 I started to learn Python development at Yandex.Practicum 9 month course.
+✨ 
 📫 You can write me on Telegram: @uverpool 
 and subscribe for my channel about DevOps: https://t.me/devopswithmax
    
