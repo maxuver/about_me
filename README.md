@@ -3,7 +3,7 @@
 I'm at Linkedin: https://www.linkedin.com/in/maxprowork
 
 📫 You can write me on Telegram: @uverpool 
-and subscribe for my channel about DevOps: https://t.me/devopswithmax
+and subscribe for my channel about DevOps: https://t.me/maxuver_TON
 
 [![@maxuver's Holopin board](https://holopin.me/maxuver)](https://holopin.io/@maxuver)  
    
