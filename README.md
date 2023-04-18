@@ -1,7 +1,8 @@
 ✨ If now 2023 year already, is mean that i'm actively add pet Python projects on GitHub. 
-You can write me on Telegram: @uverpool and i'll send you last version of my Resume.
+You can write me on Telegram: @maxuver and i'll send you last version of my Resume.
 
-Not final version of my CV: https://drive.google.com/file/d/1WU3gQ3Sh26fIbAkKh6DoHcekp3sfRq92/view
+Not final version of my Resume on English: https://drive.google.com/file/d/1WU3gQ3Sh26fIbAkKh6DoHcekp3sfRq92/view
+Resume on Russian language: https://docs.google.com/document/d/1wrzgAehfEP70e997lFyVJ7FodYzjqVlD-5yKSdr2OA4/edit
 
 I'm at Linkedin: https://www.linkedin.com/in/maxprowork
 
